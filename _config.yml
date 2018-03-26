@@ -1,8 +1,6 @@
-markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+title: Maggie P. Dier
+email: diermaggie@gmail.com
+description: This is a filler description
 
-# Conversion
 markdown: kramdown
-highlighter: rouge
-lsi: false
-excerpt_separator: "\n\n"
-incremental: false
+theme: minima
