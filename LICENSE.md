@@ -1,3 +1,0 @@
-Copyright (c) 2018 Maggie P. Dier <diermaggie@gmail.com>
-
-All rights reserved. No part of this repository may be reproduced, distributed, or transmitted in any form or by any means, including but not limited to photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the publisher.
