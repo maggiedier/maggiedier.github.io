@@ -5,5 +5,5 @@
 - src: landing/header_one.jpg
   title: leaf and dot lights
 
-- src: landing/header_two.jpg
-  title: universe and stars
+# - src: landing/header_two.jpg
+#   title: universe and stars
