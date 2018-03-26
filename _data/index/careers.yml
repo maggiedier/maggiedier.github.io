@@ -1,29 +1,57 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
-    i18n: company_a
+    detail: B4 Youth Theatre
+    i18n: b4_youth
   desc:
     detail: I worked at Company A ...
-    i18n: company_a_desc
+    i18n: b4_youth_desc
   date:
-    detail: Apr. 2016
-    i18n: company_a_date
+    detail: Jun. 2014 - May. 2015
+    i18n: b4_youth_date
   job:
-    detail: CTO
-    i18n: company_a_job
+    detail: Marketing and Communications Manager
+    i18n: b4_youth_job
   icon: fa-plus-square
 
 - name:
-    detail: Company B
-    i18n: company_b
+    detail: Everyman Theatre
+    i18n: everyman
   desc:
-    detail: I worked at Company B ...
-    i18n: company_b_desc
+    detail: I worked at Company A ...
+    i18n: everyman_desc
   date:
-    detail: Jun. 2015
-    i18n: company_b_date
+    detail: Aug. 2014 - Jun. 2015
+    i18n: everyman_date
   job:
-    detail: Full Stack Developer
-    i18n: company_b_job
+    detail: Marketing Intern
+    i18n: everyman_job
+  icon: fa-plus-square
+
+- name:
+    detail: Donquisoft, LLC
+    i18n: donquisoft
+  desc:
+    detail: I worked at Company A ...
+    i18n: donquisoft_desc
+  date:
+    detail: Mar. 2015 - Apr. 2015
+    i18n: donquisoft_date
+  job:
+    detail: Marketing Consultant
+    i18n: donquisoft_job
+  icon: fa-plus-square
+
+- name:
+    detail: Vehicles for Change
+    i18n: vfc
+  desc:
+    detail: I worked at Company A ...
+    i18n: vfct_desc
+  date:
+    detail: May. 2016 - Present
+    i18n: vfc_date
+  job:
+    detail: Marketing Strategist
+    i18n: vfc_job
   icon: fa-plus-square
