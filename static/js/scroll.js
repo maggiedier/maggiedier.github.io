@@ -11,7 +11,7 @@ $(document).ready(function() {
             scrollTop: $(link.attr('href')).offset().top - 50
         }, 500);
         event.preventDefault();
-        $("#navbar").collapse('hide');
+        // $("#navbar").collapse('hide');
     });
 });
 
