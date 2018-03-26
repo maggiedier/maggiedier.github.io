@@ -1,9 +1,8 @@
-title: TODO
-email: TODO
-url: TODO
-twitter_username: TODO
-github_username: maggiedier
-theme: minima
-exclude:
-  - LICENSE.md
-  - README.md
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
